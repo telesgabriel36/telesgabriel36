@@ -1,5 +1,5 @@
-# Olá, eu sou Gabriel Teles
-Sou desenvolvedor Backend focado em C#, ASP.NET Core, Entity Framework e desenvolvimento Web.
+# Olá, eu sou Gabriel Teles!
+Desenvolvedor Backend focado em C#, ASP.NET Core, Entity Framework e desenvolvimento Web.
 
 
 
