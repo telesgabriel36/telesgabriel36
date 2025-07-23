@@ -14,7 +14,7 @@ Desenvolvedor Backend focado em C#, ASP.NET Core, Entity Framework e desenvolvim
 
 
 ## Repositórios em Destaque
-- [Sistema de Gestão de PetShop (ASP.NET Core MVC + EF Core)](https://github.com/telesgabriel36/OAT---Desenvolvimento-Web-2.git)
+- [Sistema de Gestão de PetShop (ASP.NET Core MVC + EF Core)](https://github.com/telesgabriel36/Projeto-PetShop.git)
 - [Sistema de perguntas ao Llama (Razor Pages com AJAX + JS)](https://github.com/telesgabriel36/Projeto-Integra-o-Ollama.git)
 
 
